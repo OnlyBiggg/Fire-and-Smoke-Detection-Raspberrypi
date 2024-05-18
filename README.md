@@ -1,7 +1,7 @@
 <h1>Intelligent Fire Alarm and Fighting System</h1>
 <p>This project involves developing an intelligent fire alarm and fighting system using Convolutional Neural Networks (CNNs). The system is designed to detect fire and smoke in real-time through image and video analysis and automatically activate firefighting measures.</p>
-DataSet Training model:  https://www.kaggle.com/datasets/dakshmall/fire-and-smoke-detection <br>
-Key Features: <br>
+DataSet Training model:  <a href='https://www.kaggle.com/datasets/dakshmall/fire-and-smoke-detection'>Fire and Smoke Detection</a> <br>
+<h2>Key Features:</h2>
 <b>Fire Detection:</b>
 <p>Utilizes CNNs trained on the above dataset to accurately identify fire and smoke in images and video streams.</p>
 <b>Real-time Monitoring:</b>
