@@ -10,5 +10,6 @@ DataSet Training model:  <a href='https://www.kaggle.com/datasets/dakshmall/fire
 <p>Integrates with automatic firefighting systems, such as sprinklers and extinguishers, to combat fires immediately upon detection.</p>
 <b>Integrated Alarm:</b>
 <p>Incorporates alarm systems to alert personnel and authorities immediately upon fire detection.</p>
+
 https://github.com/OnlyBiggg/Fire-and-Smoke-Detection-Raspberrypi/assets/133686482/788518f7-64f6-4791-b365-febbc75826f4
 
